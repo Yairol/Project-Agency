@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "hEMwlnEqJZYRB6mLxLWvhSRw086aKIEx+Q5AmmR649UH80Ivc5Hbm9pO6ZBUiXPRvFN+TBheN46aNnkfZpQlpw==",
+  "success": true,
+  "projectFilePath": "D:\\Estudios\\Detección de Fallos y Parámetros\\ProjectAgency 1.1\\ProjectAgency\\ProyectAgency.Test\\ProjectAgency.Test.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Yairol\\.nuget\\packages\\coverlet.collector\\3.2.0\\coverlet.collector.3.2.0.nupkg.sha512",
+    "C:\\Users\\Yairol\\.nuget\\packages\\microsoft.codecoverage\\17.5.0\\microsoft.codecoverage.17.5.0.nupkg.sha512",
+    "C:\\Users\\Yairol\\.nuget\\packages\\microsoft.net.test.sdk\\17.5.0\\microsoft.net.test.sdk.17.5.0.nupkg.sha512",
+    "C:\\Users\\Yairol\\.nuget\\packages\\microsoft.testplatform.objectmodel\\17.5.0\\microsoft.testplatform.objectmodel.17.5.0.nupkg.sha512",
+    "C:\\Users\\Yairol\\.nuget\\packages\\microsoft.testplatform.testhost\\17.5.0\\microsoft.testplatform.testhost.17.5.0.nupkg.sha512",
+    "C:\\Users\\Yairol\\.nuget\\packages\\mstest.testadapter\\3.0.2\\mstest.testadapter.3.0.2.nupkg.sha512",
+    "C:\\Users\\Yairol\\.nuget\\packages\\mstest.testframework\\3.0.2\\mstest.testframework.3.0.2.nupkg.sha512",
+    "C:\\Users\\Yairol\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Yairol\\.nuget\\packages\\nuget.frameworks\\5.11.0\\nuget.frameworks.5.11.0.nupkg.sha512",
+    "C:\\Users\\Yairol\\.nuget\\packages\\system.reflection.metadata\\1.6.0\\system.reflection.metadata.1.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Content>
+  <ProjectAgency LastGeneratedId="13">
+    <Projects>
+      <Project Id="0" Name="XXX" FristDate="19/04/2002" ProjectYear="0" Description="" LastDate="" />
+      <Project Id="1" Name="YYY" FristDate="19/04/1999" ProjectYear="0" Description="" LastDate="" />
+      <Project Id="2" Name="ZZZ" FristDate="20/04/2000" ProjectYear="0" Description="" LastDate="" />
+      <Project Id="3" Name="XXX" FristDate="19/04/2002" ProjectYear="0" Description="" LastDate="" />
+      <Project Id="4" Name="YYY" FristDate="19/04/1999" ProjectYear="0" Description="" LastDate="" />
+      <Project Id="5" Name="ZZZ" FristDate="20/04/2000" ProjectYear="0" Description="" LastDate="" />
+      <Project Id="6" Name="XXX" FristDate="19/04/2002" ProjectYear="0" Description="" LastDate="" />
+      <Project Id="7" Name="XXX" FristDate="19/04/2002" ProjectYear="0" Description="" LastDate="" />
+      <Project Id="8" Name="XXX" FristDate="19/04/2002" ProjectYear="0" Description="" LastDate="" />
+      <Project Id="9" Name="YYY" FristDate="19/04/1999" ProjectYear="0" Description="" LastDate="" />
+      <Project Id="10" Name="ZZZ" FristDate="20/04/2000" ProjectYear="0" Description="" LastDate="" />
+      <Project Id="11" Name="XXX" FristDate="19/04/2002" ProjectYear="0" Description="" LastDate="" />
+      <Project Id="12" Name="ZZZ" FristDate="20/04/2000" ProjectYear="0" Description="" LastDate="" />
+      <Project Id="13" Name="YYY" FristDate="19/04/1999" ProjectYear="0" Description="" LastDate="" />
+    </Projects>
+    <Machines />
+    <Sensors />
+    <Actuators />
+    <Variables />
+  </ProjectAgency>
+</Content>

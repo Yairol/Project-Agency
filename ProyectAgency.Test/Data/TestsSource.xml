@@ -1,0 +1,160 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Content>
+	<ProjectsTest>
+		<Create>
+			<Project name="XXX" DateTime="19/04/2002"/>
+			<Project name="YYY" DateTime="19/04/1999"/>
+			<Project name="ZZZ" DateTime="20/04/2000"/>
+		</Create>
+		<Get>
+			<Project pos="0"/>
+			<Project pos="1"/>
+		</Get>
+		<Update>
+			<Project pos="0" name="Placa" LastDate="13/04/2004" Description="" ProjectYear=""/>
+			<Project pos="1" name="Chama" LastDate="25/04/2027" Description="" ProjectYear=""/>
+			<Project pos="2" name="Landa" LastDate="20/04/2029" Description="" ProjectYear=""/>
+		</Update>
+		<Delete>
+			<Project pos="0"/>
+		</Delete>
+	</ProjectsTest>
+	
+	<MachinesTest>
+		<Create>
+			<Machine name="XRazor" code="0392xp" projectPos="0"/>
+			<Machine name="XRazor" code="0322xp" projectPos="1"/>
+			<Machine name="FPLO" code="0312xp" projectPos="0"/>
+			<Machine name="XRazor" code="039RE" projectPos="0"/>
+			<Machine name="XRazor" code="0312xp" projectPos="1"/>
+			<Machine name="XCLAM" code="03WE" projectPos="1"/>
+			<Machine name="XRPROM" code="03REW" projectPos="1"/>
+			<Machine name="XRazor" code="03ASDF" projectPos="0"/>
+		</Create>
+		<Get>
+			<Machine pos="0"/>
+			<Machine pos="1"/>
+			<Machine pos="2"/>
+			<Machine pos="3"/>
+			<Machine pos="4"/>
+			<Machine pos="5"/>
+			<Machine pos="6"/>
+			<Machine pos="7"/>
+		</Get>
+		<Update>
+			<Machine pos ="0" name="Civichana" code="100002M" Description="No tocar el botón rojo." Type="FILL"/>
+			<Machine pos ="1" name="XMande" code="30dfs" Description="No tocar el botón rojo" Type="FILL"/>
+			<Machine pos ="2" name="XRazor" code="300sadf" Description="No tocar el botón rojo" Type=""/>
+			<Machine pos ="3" name="XLapta" code="3we" Description="No tocar el botón rojo" Type=""/>
+			<Machine pos ="4" name="XDell" code="300DFA" Description="No tocar el botón rojo" Type=""/>
+			<Machine pos ="5" name="Marcas" code="3002SADF" Description="No tocar el botón rojo" Type=""/>
+		</Update>
+		<Delete>
+			<Mahcine pos="2"/>
+			<Mahcine pos="3"/>
+		</Delete>
+	</MachinesTest>
+	<SensorsTest>
+		<Create>
+			<Sensor name="Plate" code="343MP" machinePos="0"/>
+			<Sensor name="Blate" code="443MP" machinePos="1"/>
+			<Sensor name="Zofaco" code="14ASDMP" machinePos="1"/>
+			<Sensor name="Zofaco" code="1423D" machinePos="1"/>
+			<Sensor name="Marcas" code="143M23" machinePos="2"/>
+			<Sensor name="Alpha" code="32EP" machinePos="3"/>
+			<Sensor name="Sixtao" code="03EEMP" machinePos="3"/>
+			<Sensor name="Zoddo" code="1ADDP" machinePos="2"/>
+			<Sensor name="Zofaco" code="YAIROL" machinePos="3"/>
+		</Create>
+		<Get>
+			<Sensor pos="0"/>
+			<Sensor pos="1"/>
+			<Sensor pos="2"/>
+			<Sensor pos="3"/>
+			<Sensor pos="4"/>
+			<Sensor pos="5"/>
+			<Sensor pos="6"/>
+			<Sensor pos="7"/>
+			<Sensor pos="8"/>
+		</Get>
+		<Update>
+			<Sensor pos="0" name="" code="" description="Mido la temperatura del agua"/>
+			<Sensor pos="1" name="" code="POaiso888" description="Mido la presion en una tubería"/>
+			<Sensor pos="2" name="" code="" description="Mido la temperatura del agua"/>
+			<Sensor pos="3" name="" code="sadf" description="Mido la temperatura del agua"/>
+			<Sensor pos="6" name="PardoX" code="" description="Mido la temperatura del agua"/>
+		</Update>
+		<Delete>
+			<Sensor pos="0"/>
+		</Delete>
+	</SensorsTest>
+	
+	<ActuatorsTest>
+		<Create>
+			<Actuator name="MaltaX" code="R435L" machinePos="0"/>
+			<Actuator name="MaltaX" code="YU35O" machinePos="1"/>
+			<Actuator name="MaltaX" code="9035L" machinePos="1"/>
+			<Actuator name="SIGMA" code="R43RJ" machinePos="3"/>
+			<Actuator name="SIGMA" code="R435L" machinePos="2"/>
+			<Actuator name="SIGMA" code="R4235L" machinePos="0"/>
+			<Actuator name="SIGMA" code="343LLL" machinePos="3"/>
+		</Create>
+		<Get>
+			<Actuator pos="0"/>
+			<Actuator pos="1"/>
+			<Actuator pos="2"/>
+			<Actuator pos="3"/>
+			<Actuator pos="4"/>
+			<Actuator pos="5"/>
+			<Actuator pos="6"/>
+		</Get>
+		<Update>
+			<Actuator pos="0" name="YAirol" code="" description="Creatividad en las notas es lo que hace falta"/>
+			<Actuator pos="2" name="" code="" description="Creatividad en las notas es lo que hace falta"/>
+			<Actuator pos="3" name="" code="" description="Creatividad en las notas es lo que hace falta"/>
+		</Update>
+		<Delete>
+			<Actuator pos="1"/>
+		</Delete>
+	</ActuatorsTest>
+	
+	<VariablesTest>
+		<Create>
+			<Variable name="Temperatura1" code="GGT54" sensorPos="1" actuatorPos="2"/>
+			<Variable name="Temperatura2" code="24T54" sensorPos="2" actuatorPos="4"/>
+			<Variable name="Temperatura3" code="JO033" sensorPos="3" actuatorPos="4"/>
+			<Variable name="Presion1" code="IIU89" sensorPos="1" actuatorPos="2"/>
+			<Variable name="Presion2" code="00JHL" sensorPos="2" actuatorPos="3"/>
+			<Variable name="Humedad1" code="BNM6" sensorPos="0" actuatorPos="1"/>
+			<Variable name="Humedad2" code="DFGH78" sensorPos="2" actuatorPos="0"/>
+			<Variable name="Humedad3" code="OPTR8" sensorPos="1" actuatorPos="5"/>
+			<Variable name="Presion3" code="87UJL" sensorPos="3" actuatorPos="1"/>
+			<Variable name="Presion4" code="GGT54" sensorPos="4" actuatorPos="3"/>
+		</Create>
+		<Get>
+			<Variable pos="0"/>
+			<Variable pos="1"/>
+			<Variable pos="2"/>
+			<Variable pos="3"/>
+			<Variable pos="4"/>
+			<Variable pos="5"/>
+			<Variable pos="6"/>
+			<Variable pos="7"/>
+			<Variable pos="8"/>
+			<Variable pos="9"/>
+		</Get>
+		<Update>
+			<Variable pos="0" name ="PAPA" code="fff" description="Sala1"/>
+			<Variable pos="1" name ="" code="" description="Sala2"/>
+			<Variable pos="2" name ="" code="ffff" description="Sala3"/>
+			<Variable pos="3" name ="" code="" description="Sala4"/>
+			<Variable pos="4" name ="" code="ssss" description="Sala5"/>
+			<Variable pos="5" name ="fff" code="" description="Sala6"/>
+		</Update>
+		<Delete>
+			<Variable pos="0"/>
+			<Variable pos="1"/>
+			<Variable pos="2"/>
+		</Delete>
+	</VariablesTest>
+</Content>

@@ -1,0 +1,122 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Detección de Fallos y Parámetros\\ProjectAgency 1.1\\ProjectAgency\\ProyectAgency.Repository\\ProyectAgency.Repository.csproj": {}
+  },
+  "projects": {
+    "D:\\Detección de Fallos y Parámetros\\ProjectAgency 1.1\\ProjectAgency\\Domain\\Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Detección de Fallos y Parámetros\\ProjectAgency 1.1\\ProjectAgency\\Domain\\Domain.csproj",
+        "projectName": "Domain",
+        "projectPath": "D:\\Detección de Fallos y Parámetros\\ProjectAgency 1.1\\ProjectAgency\\Domain\\Domain.csproj",
+        "packagesPath": "C:\\Users\\Yairol\\.nuget\\packages\\",
+        "outputPath": "D:\\Detección de Fallos y Parámetros\\ProjectAgency 1.1\\ProjectAgency\\Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Yairol\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Detección de Fallos y Parámetros\\ProjectAgency 1.1\\ProjectAgency\\ProyectAgency.Repository\\ProyectAgency.Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Detección de Fallos y Parámetros\\ProjectAgency 1.1\\ProjectAgency\\ProyectAgency.Repository\\ProyectAgency.Repository.csproj",
+        "projectName": "ProyectAgency.Repository",
+        "projectPath": "D:\\Detección de Fallos y Parámetros\\ProjectAgency 1.1\\ProjectAgency\\ProyectAgency.Repository\\ProyectAgency.Repository.csproj",
+        "packagesPath": "C:\\Users\\Yairol\\.nuget\\packages\\",
+        "outputPath": "D:\\Detección de Fallos y Parámetros\\ProjectAgency 1.1\\ProjectAgency\\ProyectAgency.Repository\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Yairol\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "D:\\Detección de Fallos y Parámetros\\ProjectAgency 1.1\\ProjectAgency\\Domain\\Domain.csproj": {
+                "projectPath": "D:\\Detección de Fallos y Parámetros\\ProjectAgency 1.1\\ProjectAgency\\Domain\\Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

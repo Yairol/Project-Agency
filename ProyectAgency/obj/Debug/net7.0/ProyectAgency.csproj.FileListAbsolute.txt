@@ -1,0 +1,45 @@
+D:\Serial-X\Proyecto\ProyectAgency\ProyectAgency\bin\Debug\net7.0\ProyectAgency.exe
+D:\Serial-X\Proyecto\ProyectAgency\ProyectAgency\bin\Debug\net7.0\ProyectAgency.deps.json
+D:\Serial-X\Proyecto\ProyectAgency\ProyectAgency\bin\Debug\net7.0\ProyectAgency.runtimeconfig.json
+D:\Serial-X\Proyecto\ProyectAgency\ProyectAgency\bin\Debug\net7.0\ProyectAgency.dll
+D:\Serial-X\Proyecto\ProyectAgency\ProyectAgency\bin\Debug\net7.0\ProyectAgency.pdb
+D:\Serial-X\Proyecto\ProyectAgency\ProyectAgency\obj\Debug\net7.0\ProyectAgency.csproj.AssemblyReference.cache
+D:\Serial-X\Proyecto\ProyectAgency\ProyectAgency\obj\Debug\net7.0\ProyectAgency.GeneratedMSBuildEditorConfig.editorconfig
+D:\Serial-X\Proyecto\ProyectAgency\ProyectAgency\obj\Debug\net7.0\ProyectAgency.AssemblyInfoInputs.cache
+D:\Serial-X\Proyecto\ProyectAgency\ProyectAgency\obj\Debug\net7.0\ProyectAgency.AssemblyInfo.cs
+D:\Serial-X\Proyecto\ProyectAgency\ProyectAgency\obj\Debug\net7.0\ProyectAgency.csproj.CoreCompileInputs.cache
+D:\Serial-X\Proyecto\ProyectAgency\ProyectAgency\obj\Debug\net7.0\ProyectAgency.dll
+D:\Serial-X\Proyecto\ProyectAgency\ProyectAgency\obj\Debug\net7.0\refint\ProyectAgency.dll
+D:\Serial-X\Proyecto\ProyectAgency\ProyectAgency\obj\Debug\net7.0\ProyectAgency.pdb
+D:\Serial-X\Proyecto\ProyectAgency\ProyectAgency\obj\Debug\net7.0\ProyectAgency.genruntimeconfig.cache
+D:\Serial-X\Proyecto\ProyectAgency\ProyectAgency\obj\Debug\net7.0\ref\ProyectAgency.dll
+D:\Detección de Fallos y Parámetros\ProyectAgency 1.1\ProyectAgency\ProyectAgency\bin\Debug\net7.0\ProyectAgency.exe
+D:\Detección de Fallos y Parámetros\ProyectAgency 1.1\ProyectAgency\ProyectAgency\bin\Debug\net7.0\ProyectAgency.deps.json
+D:\Detección de Fallos y Parámetros\ProyectAgency 1.1\ProyectAgency\ProyectAgency\bin\Debug\net7.0\ProyectAgency.runtimeconfig.json
+D:\Detección de Fallos y Parámetros\ProyectAgency 1.1\ProyectAgency\ProyectAgency\bin\Debug\net7.0\ProyectAgency.dll
+D:\Detección de Fallos y Parámetros\ProyectAgency 1.1\ProyectAgency\ProyectAgency\bin\Debug\net7.0\ProyectAgency.pdb
+D:\Detección de Fallos y Parámetros\ProyectAgency 1.1\ProyectAgency\ProyectAgency\obj\Debug\net7.0\ProyectAgency.csproj.AssemblyReference.cache
+D:\Detección de Fallos y Parámetros\ProyectAgency 1.1\ProyectAgency\ProyectAgency\obj\Debug\net7.0\ProyectAgency.GeneratedMSBuildEditorConfig.editorconfig
+D:\Detección de Fallos y Parámetros\ProyectAgency 1.1\ProyectAgency\ProyectAgency\obj\Debug\net7.0\ProyectAgency.AssemblyInfoInputs.cache
+D:\Detección de Fallos y Parámetros\ProyectAgency 1.1\ProyectAgency\ProyectAgency\obj\Debug\net7.0\ProyectAgency.AssemblyInfo.cs
+D:\Detección de Fallos y Parámetros\ProyectAgency 1.1\ProyectAgency\ProyectAgency\obj\Debug\net7.0\ProyectAgency.csproj.CoreCompileInputs.cache
+D:\Detección de Fallos y Parámetros\ProyectAgency 1.1\ProyectAgency\ProyectAgency\obj\Debug\net7.0\ProyectAgency.dll
+D:\Detección de Fallos y Parámetros\ProyectAgency 1.1\ProyectAgency\ProyectAgency\obj\Debug\net7.0\refint\ProyectAgency.dll
+D:\Detección de Fallos y Parámetros\ProyectAgency 1.1\ProyectAgency\ProyectAgency\obj\Debug\net7.0\ProyectAgency.pdb
+D:\Detección de Fallos y Parámetros\ProyectAgency 1.1\ProyectAgency\ProyectAgency\obj\Debug\net7.0\ProyectAgency.genruntimeconfig.cache
+D:\Detección de Fallos y Parámetros\ProyectAgency 1.1\ProyectAgency\ProyectAgency\obj\Debug\net7.0\ref\ProyectAgency.dll
+D:\Detección de Fallos y Parámetros\ProjectAgency 1.1\ProjectAgency\ProyectAgency\bin\Debug\net7.0\ProyectAgency.exe
+D:\Detección de Fallos y Parámetros\ProjectAgency 1.1\ProjectAgency\ProyectAgency\bin\Debug\net7.0\ProyectAgency.deps.json
+D:\Detección de Fallos y Parámetros\ProjectAgency 1.1\ProjectAgency\ProyectAgency\bin\Debug\net7.0\ProyectAgency.runtimeconfig.json
+D:\Detección de Fallos y Parámetros\ProjectAgency 1.1\ProjectAgency\ProyectAgency\bin\Debug\net7.0\ProyectAgency.dll
+D:\Detección de Fallos y Parámetros\ProjectAgency 1.1\ProjectAgency\ProyectAgency\bin\Debug\net7.0\ProyectAgency.pdb
+D:\Detección de Fallos y Parámetros\ProjectAgency 1.1\ProjectAgency\ProyectAgency\obj\Debug\net7.0\ProyectAgency.csproj.AssemblyReference.cache
+D:\Detección de Fallos y Parámetros\ProjectAgency 1.1\ProjectAgency\ProyectAgency\obj\Debug\net7.0\ProyectAgency.GeneratedMSBuildEditorConfig.editorconfig
+D:\Detección de Fallos y Parámetros\ProjectAgency 1.1\ProjectAgency\ProyectAgency\obj\Debug\net7.0\ProyectAgency.AssemblyInfoInputs.cache
+D:\Detección de Fallos y Parámetros\ProjectAgency 1.1\ProjectAgency\ProyectAgency\obj\Debug\net7.0\ProyectAgency.AssemblyInfo.cs
+D:\Detección de Fallos y Parámetros\ProjectAgency 1.1\ProjectAgency\ProyectAgency\obj\Debug\net7.0\ProyectAgency.csproj.CoreCompileInputs.cache
+D:\Detección de Fallos y Parámetros\ProjectAgency 1.1\ProjectAgency\ProyectAgency\obj\Debug\net7.0\ProyectAgency.dll
+D:\Detección de Fallos y Parámetros\ProjectAgency 1.1\ProjectAgency\ProyectAgency\obj\Debug\net7.0\refint\ProyectAgency.dll
+D:\Detección de Fallos y Parámetros\ProjectAgency 1.1\ProjectAgency\ProyectAgency\obj\Debug\net7.0\ProyectAgency.pdb
+D:\Detección de Fallos y Parámetros\ProjectAgency 1.1\ProjectAgency\ProyectAgency\obj\Debug\net7.0\ProyectAgency.genruntimeconfig.cache
+D:\Detección de Fallos y Parámetros\ProjectAgency 1.1\ProjectAgency\ProyectAgency\obj\Debug\net7.0\ref\ProyectAgency.dll
